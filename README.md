@@ -10,6 +10,7 @@ Hi! Cody is not my real name, and here is some stuff about me:
 - I make games with Unity and I'm planning on learning Godot
 - I'm learning how to draw
 - My favorite color is lime green
+- I know 3 (real-world) languages with one of them being Japanese and the other Russian
 - Here are my top 4 favorite languages:
   - #1 Lua (really underrated)
   - #2 Java
