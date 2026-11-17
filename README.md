@@ -10,6 +10,11 @@ Hi! Cody is not my real name, and here is some stuff about me:
 - I make games with Unity and I'm planning on learning Godot
 - I'm learning how to draw
 - My favorite color is lime green
+- Here are my top 4 favorite languages:
+  - #1 Lua (really underrated)
+  - #2 Java
+  - #3 Python
+  - #4 Typescript
 
 ## My abilities
 My abilities are quite limited but here are some languages and frameworks I know:
